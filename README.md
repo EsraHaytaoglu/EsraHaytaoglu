@@ -9,7 +9,7 @@
 
 ### aboutMe.js
 ```javascript
-funtion Esra () {
+function Esra () {
 	const init = () => {
 		code: [Javascript, HTML, CSS],
     		tool: [React. ],
