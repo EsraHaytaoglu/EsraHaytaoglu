@@ -6,15 +6,21 @@
 
 ### aboutMe.js
 ```javascript
-const esra = {
-    pronouns: "she" | "her",
-    code: [Javascript, HTML, CSS],
-    tool: [React. ],
-    askMeAbout: ["web dev", "Reactjs",  and more! I'm open to learning"],
-    myPersonelWebsite: "https://esracebii.com",
-    
- 
-};
+funtion Esra () {
+	const init = () => {
+		code: [Javascript, HTML, CSS],
+    		tool: [React. ],
+    		askMeAbout: ["web dev", "Reactjs",  and more! I'm open to learning"],
+    		myPersonelWebsite:"https://esracebii.com"	
+	}
+
+	const sayHello = async () => {
+		console.log("Thanks for dropping by, hope you find some of my work interesting.")
+	}	
+
+}
+export default Esra;
+
 ```
 <br />
 
