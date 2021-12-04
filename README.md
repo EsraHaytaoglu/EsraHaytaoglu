@@ -7,19 +7,25 @@
     
 
 
-### aboutMe.js
+### AboutMe.js
 ```javascript
 function Esra () {
-	const init = () => {
-		code: [Javascript, HTML, CSS],
-    		tool: [React, Redux, Typescript ],
-    		askMeAbout: ["web dev", "Reactjs",  "and more! I'm open to learning"],
-    		myPersonelWebsite:"https://esracebii.com"	
-	}
-
 	const sayHello = async () => {
 		console.log("Thanks for dropping by, hope you find some of my work interesting.")
 	}	
+	 useEffect(() => {
+		sayHello();
+  	}, []);
+	return (
+	    <>
+	      <h1> My main programming language is Javascript. </h1>
+	      <h5> I often use React and Redux. </h5>
+	      <div>
+		Ask me about: Web dev, React JS and more! I'm open to learning.
+	      </div>
+	      <a href="https://esracebii.com">My Personel Website </a>
+	    </>
+	)
 
 }
 export default Esra;
@@ -28,13 +34,11 @@ export default Esra;
 <br />
 
 
-##### MOTTO
+##### Quote
 
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+> Software is a great combination between artistry and engineering.  - Bill Gates
 
-<p align="center">
-Check out my repos ⬇️  
-</p>
+
 
 
 
