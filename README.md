@@ -12,8 +12,8 @@
 function Esra () {
 	const init = () => {
 		code: [Javascript, HTML, CSS],
-    		tool: [React. ],
-    		askMeAbout: ["web dev", "Reactjs",  and more! I'm open to learning"],
+    		tool: [React, Redux, Typescript ],
+    		askMeAbout: ["web dev", "Reactjs",  "and more! I'm open to learning"],
     		myPersonelWebsite:"https://esracebii.com"	
 	}
 
