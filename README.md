@@ -21,7 +21,7 @@ function Esra () {
 	      <h1> My main programming language is Javascript. </h1>
 	      <h5> I often use React and Redux. </h5>	
 	      <div>
-		I'am currently working on SwiftUI.
+		I'am currently working on Swift.
 		Ask me about: Mobile and Web dev, React JS and more! I'm open to learning.
 	      </div>
 	      <a href="https://esracebii.com">My Personel Website </a>
